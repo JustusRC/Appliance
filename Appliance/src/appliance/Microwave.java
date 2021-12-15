@@ -1,5 +1,3 @@
-package appliance;
-
 public class Microwave {
 	
 	//Justus Contreras
